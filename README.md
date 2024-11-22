@@ -37,7 +37,7 @@ The Contract Monthly Claim System (CMCS) is a web application developed using .N
 2. Restore NuGet packages:
    ```bash
    dotnet restore
-   ```
+   ``
 
 3. Configure the database:
    - Update the connection string in `appsettings.json` to point to your SQL Server instance.
